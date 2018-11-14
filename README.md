@@ -1,2 +1,2 @@
-# c-code
-some code about c++
+# DS
+some code about DS
